@@ -4,7 +4,7 @@ def main():
     ans = random.randint(0, 10)
     win = False
 
-    print(ans)
+    #print(ans)
 
     for i in range(3):
         guess = int(input("Enter your guess: "))
