@@ -10,4 +10,4 @@ ESP32 GPIO 32 -> button
 Breadboard power rail -> button
 
 b) youtube video link:
-https://www.youtube.com/watch?v=AYxnbsq_4Dw
+https://youtu.be/ErS2GJlpiqM
